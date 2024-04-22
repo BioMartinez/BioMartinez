@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**BioMartinez/BioMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Make yourself a good cup of tea and enjoy reading 🍵 
 
-Here are some ideas to get you started:
+‼️ I'm currently looking for a job as a manual tester, quality assurance or automatic tester ‼️  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/martyna-kowalczyk-qa/)
+
+## About me
+
+In 2023 I started learning for a Quality Assurance. During the course, I acquired skills and knowledge in the following topics:
+- form testing
+- desktop and mobile testing
+- website testing
+- bug report
+- test case
+- test scenario
+- test report
+- concepts from the ISTQB syllabus
+- Devtools
+- REST API testing with Postman
+- relational database (MS SQL)
+
+Now, I am training intensively in automatic testing by participating in a course from [jaktestowac.pl](https://jaktestowac.pl/):
+- JavaScript
+- TypeScript
+- Automatic tests with Playwright (AAA, DRY, POM, GIT, Prettier)
+- Visual Studio Code
+
+Since January 2024, I have also been working for uTest as a tester. 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,git,github,vscode,postman,discord)](https://skillicons.dev)
+
+## About my repositories
+
+A repository called `Portfolio` contains the Generic Shop Project documentation and Library Project with SQL code.
+To see the code of automatic tests with Playwright check my other repository: `Playwright`
+
+Any suggestions that could improve my repositories are welcome.
+
