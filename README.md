@@ -27,7 +27,7 @@ Now, I am training intensively in automatic testing by participating in a course
 - Automatic tests with Playwright (AAA, DRY, POM, GIT, Prettier)
 - Visual Studio Code
 
-I'm in the middle of a thirty-day challenge with [Postman](https://quickstarts.postman.com/guide/30-days-of-postman/#0) : Day #14 
+I'm in the middle of a thirty-day challenge with [Postman](https://quickstarts.postman.com/guide/30-days-of-postman/#0) : Day #15 
 
 Since January 2024, I have also been working for uTest as a tester. 
 
