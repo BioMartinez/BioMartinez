@@ -39,7 +39,7 @@ The challenge includes, among others:
 
 Since January 2024, I have also been working for uTest as a tester. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,git,github,vscode,postman,discord)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,git,github,vscode,postman,discord)
 
 ## About my repositories
 
