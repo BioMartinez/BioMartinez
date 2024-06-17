@@ -27,7 +27,7 @@ Now, I am training intensively in automatic testing by participating in a course
 - Automatic tests with Playwright (AAA, DRY, POM, GIT, Prettier)
 - Visual Studio Code
 
-I'm in the middle of a thirty-day challenge with [Postman](https://quickstarts.postman.com/guide/30-days-of-postman/#0) : Day #17  
+I'm in the middle of a thirty-day challenge with [Postman](https://quickstarts.postman.com/guide/30-days-of-postman/#0) : Day #19  
 The challenge includes, among others:
 - Forking and running a collection
 - Setting variables and environments
@@ -36,6 +36,7 @@ The challenge includes, among others:
 - Mock services
 - Monitoring, Visualization
 - Newman
+- API specification, GraphQL
 
 Since January 2024, I have also been working for uTest as a tester. 
 
