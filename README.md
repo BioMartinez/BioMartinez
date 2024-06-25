@@ -8,7 +8,7 @@ Welcome to my GitHub! Make yourself a good cup of tea and enjoy reading 🍵
 
 ## About me
 
-In 2023 I started learning for a Quality Assurance. During the course, I acquired skills and knowledge in the following topics:
+:white_check_mark: In 2023 I started learning for a Quality Assurance. During the course, I acquired skills and knowledge in the following topics:
 - form testing
 - desktop and mobile testing
 - website testing
@@ -21,13 +21,22 @@ In 2023 I started learning for a Quality Assurance. During the course, I acquire
 - REST API testing with Postman
 - relational database (MS SQL)
 
-Now, I am training intensively in automatic testing by participating in a course from [jaktestowac.pl](https://jaktestowac.pl/):
+:white_check_mark: Now, I am training intensively in automatic testing by participating in a course from [jaktestowac.pl](https://jaktestowac.pl/):
 - JavaScript
 - TypeScript
-- Automatic tests with Playwright (AAA, DRY, POM, GIT, Prettier)
+- Automatic tests with Playwright:
+  
+  ```
+  AAA - Arrange Act Assert
+  DRY - Don't Repeat Yourself
+  POM - Page Object Model
+  ```
 - Visual Studio Code
+- Debugging
+- GIT
+- Prettier
 
-I'm in the middle of a thirty-day challenge with [Postman](https://quickstarts.postman.com/guide/30-days-of-postman/#0) : Day #21    
+:white_check_mark: I'm in the middle of a thirty-day challenge with [Postman](https://quickstarts.postman.com/guide/30-days-of-postman/#0) : Day #21    
 The challenge includes, among others:
 - Forking and running a collection
 - Setting variables and environments
@@ -39,7 +48,9 @@ The challenge includes, among others:
 - API specification, GraphQL
 - HTTP protocol, WebSocket connection
 
-Since January 2024, I have also been working for uTest as a tester. 
+
+:white_check_mark: Since January 2024, I have also been working for uTest as a tester. 
+
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,git,github,vscode,postman,discord)
 
