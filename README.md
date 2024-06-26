@@ -8,35 +8,28 @@ Welcome to my GitHub! Make yourself a good cup of tea and enjoy reading 🍵
 
 ## About me
 
-:white_check_mark: In 2023 I started learning for a Quality Assurance. During the course, I acquired skills and knowledge in the following topics:
+:white_check_mark: **Quality Assurance**  
+In 2023 I started learning for a Quality Assurance. During the course, I acquired skills and knowledge in the following topics:
 - form testing
 - desktop and mobile testing
 - website testing
-- bug report
-- test case
-- test scenario
-- test report
-- concepts from the ISTQB syllabus
-- Devtools
+- create documentation (e.g. bug report, test cases)
+- concepts from the ISTQB syllabus (e.g. black box testing, TDD, shift left testing)
+- Devtools (Google Chrome)
 - REST API testing with Postman
 - relational database (MS SQL)
 
-:white_check_mark: Now, I am training intensively in automatic testing by participating in a course from [jaktestowac.pl](https://jaktestowac.pl/):
+:white_check_mark: **Playwright**  
+Now, I am training intensively in automatic testing by participating in a course from [jaktestowac.pl](https://jaktestowac.pl/):
 - JavaScript
 - TypeScript
-- Automatic tests with Playwright:
-  
-  ```
-  AAA - Arrange Act Assert
-  DRY - Don't Repeat Yourself
-  POM - Page Object Model
-  ```
 - Visual Studio Code
 - Debugging
 - GIT
-- Prettier
+- Automatic tests with Playwright (AAA, DRY, POM)
 
-:white_check_mark: I'm in the middle of a thirty-day challenge with [Postman](https://quickstarts.postman.com/guide/30-days-of-postman/#0) : Day #21    
+:white_check_mark: **Postman**  
+I'm in the middle of a thirty-day challenge with [Postman](https://quickstarts.postman.com/guide/30-days-of-postman/#0) : Day #22    
 The challenge includes, among others:
 - Forking and running a collection
 - Setting variables and environments
@@ -47,16 +40,28 @@ The challenge includes, among others:
 - Newman
 - API specification, GraphQL
 - HTTP protocol, WebSocket connection
+  
+  
+:white_check_mark: **uTest**  
+Since January 2024, I have also been working for uTest as a tester:  
+- Mobile and Desktop testing
+- Screenshot and Screen Recording Tools
+- Browser Logs and Mobile Devices Log
+- Web Debugging Proxy (Charles Proxy)
+    
 
-
-:white_check_mark: Since January 2024, I have also been working for uTest as a tester. 
-
+## Skills  
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,git,github,vscode,postman,discord)
 
 ## About my repositories
 
-A repository called `Portfolio` contains the Generic Shop Project documentation and Library Project with SQL code.
+:white_check_mark: **Portfolio**  
+A repository called `Portfolio` contains:
+- the Generic Shop Project documentation (bug report, test cases, test scenario, test report)
+- Library Project with SQL code
+  
+:white_check_mark: **Playwright**  
 To see the code of automatic tests with Playwright check my other repository: `Playwright`
 
 Any suggestions that could improve my repositories are welcome.
